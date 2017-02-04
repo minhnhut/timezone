@@ -1,5 +1,10 @@
 {
     "name": "minhnhut/timezone",
     "description": "My very first package",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MinhNhut\\Timezone\\": "src/"
+        }
+    }
 }
