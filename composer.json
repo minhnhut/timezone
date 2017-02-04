@@ -1,6 +1,5 @@
 {
     "name": "minhnhut/timezone",
     "description": "My very first package",
-    "minimum-stability": "dev",
     "require": {}
 }
